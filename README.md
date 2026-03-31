@@ -17,3 +17,10 @@ Explores **color image transformations** using matrix operations on RGB channels
 - Discussion of invertibility — which transformations can be reversed and why
  
 **Tools & Libraries:** numpy, matplotlib, PIL
+
+**Colab link:**
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KUxQUC7CE2XQBrKVy7qC4v2knJWmrd1j?usp=sharing)
+
+*Author*
+
+*Rekha Dhorigol*
